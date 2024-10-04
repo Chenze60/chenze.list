@@ -1,8 +1,11 @@
-- DOMAIN-SUFFIX,dingtalk.com
-- DOMAIN-SUFFIX,chenze60.cc
-- DOMAIN-SUFFIX,douyin.com
-- DOMAIN-SUFFIX,toutiao.com
-- DOMAIN-SUFFIX,qq.com
-- DOMAIN-SUFFIX,weixin.qq.com
-- DOMAIN-SUFFIX,xunlei.com
-- DOMAIN-SUFFIX,91goodgo.com
+# 域名关键字匹配
+DOMAIN-KEYWORD,chenze60
+# 域名后缀匹配
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,chenze60.cc
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,91goodgo.com
